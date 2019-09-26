@@ -219,6 +219,7 @@ const ACE_HANDLERS = Object.freeze({
 
   tabSize: 'session',
   useSoftTabs: 'session',
+  useWorker: 'session',
 
   showGutter: 'renderer',
 
